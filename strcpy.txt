@@ -1,0 +1,2 @@
+字符串拷贝 例 strcpy（b1.name，“”C++“”）公式strcpy（目的名，“”修改名“”）
+处库函数 名 <string.h>
